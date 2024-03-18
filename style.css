@@ -123,5 +123,6 @@ button {
     width: 100%;
     align-items: center;
     order: 1;
+    margin-left: 0px;
   }
 }
